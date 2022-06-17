@@ -2251,3 +2251,15 @@ Logging in leo@gmail.com
 2022-06-10_08:00:07.065 [http-nio-8081-exec-7] INFO  c.r.p.services.ItemServiceImpl - Executing isItemExists() service
 2022-06-10_08:00:07.072 [http-nio-8081-exec-7] INFO  c.r.p.services.ItemServiceImpl - Executing isItemExists() service
 2022-06-10_08:00:07.072 [http-nio-8081-exec-7] INFO  c.r.p.services.ItemServiceImpl - Executing addItem() service
+2022-06-16_17:06:05.234 [http-nio-8081-exec-5] INFO  c.r.p.controller.UserController - getUsers() started execution
+2022-06-16_17:06:05.242 [http-nio-8081-exec-5] INFO  c.r.p.services.ItemServiceImpl - Executing getUsers() service
+2022-06-16_17:06:13.335 [http-nio-8081-exec-9] INFO  c.r.p.controller.UserController - getUsers() started execution
+2022-06-16_17:06:13.347 [http-nio-8081-exec-9] INFO  c.r.p.services.ItemServiceImpl - Executing getUsers() service
+2022-06-16_17:06:38.307 [http-nio-8081-exec-7] INFO  c.r.p.controller.ItemController - addItem() started execution
+2022-06-16_17:06:38.307 [http-nio-8081-exec-7] INFO  c.r.p.services.ItemServiceImpl - Executing isItemExists() service
+2022-06-16_17:06:38.359 [http-nio-8081-exec-7] INFO  c.r.p.services.ItemServiceImpl - Executing isItemExists() service
+2022-06-16_17:06:38.385 [http-nio-8081-exec-7] INFO  c.r.p.services.ItemServiceImpl - Executing addItem() service
+2022-06-16_17:07:05.362 [http-nio-8081-exec-9] INFO  c.r.p.controller.UserController - getUsers() started execution
+2022-06-16_17:07:05.362 [http-nio-8081-exec-9] INFO  c.r.p.services.ItemServiceImpl - Executing getUsers() service
+2022-06-16_17:09:59.308 [http-nio-8081-exec-5] INFO  c.r.p.controller.LoginController - register() started execution
+2022-06-16_17:09:59.308 [http-nio-8081-exec-5] INFO  c.r.p.services.ItemServiceImpl - Executing isUserExists() service
